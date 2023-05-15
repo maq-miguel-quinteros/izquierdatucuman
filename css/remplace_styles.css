@@ -1,0 +1,14 @@
+.bg-red_izq {
+    --bs-bg-opacity: 1;
+    background-color: rgb(218,33,40) !important;
+}
+
+.text-red_izq {
+    --bs-bg-opacity: 1;
+    color: rgb(218,33,40) !important;
+}
+
+.text-black_izq {
+    --bs-bg-opacity: 1;
+    color: rgb(29,29,28) !important;
+}
