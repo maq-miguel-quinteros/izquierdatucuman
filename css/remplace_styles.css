@@ -12,3 +12,22 @@
     --bs-bg-opacity: 1;
     color: rgb(29,29,28) !important;
 }
+
+.social-icons_izq .social-icon_izq {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    width: 2.5rem;
+    background-color: #495057;
+    color: #fff;
+    border-radius: 100%;
+    font-size: 1.rem;
+    margin-right: 0.5rem;
+}
+.social-icons_izq .social-icon_izq:last-child {
+    margin-right: 0;
+}
+.social-icons_izq .social-icon_izq:hover {
+    background-color: #d82129;
+}
