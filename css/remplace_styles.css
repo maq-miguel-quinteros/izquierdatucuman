@@ -30,7 +30,12 @@
 }
 .social-icons_izq .social-icon_izq:hover {
     background-color: #d82129;
-} 
+}
+
+.candidatos_izq {
+    max-width: 400px;
+}
+
 .google-form-contenedor {    
     position: relative;
     width: 100%;
